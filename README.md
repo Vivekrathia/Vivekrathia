@@ -1,12 +1,12 @@
-# Hey there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
-<img src="" width="25px">
+<h1>Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Vivek rathia</h1>
+<img src="https://github.com/Vivekrathia/Vivekrathia/blob/main/Wy7u.gif" width="500" height="320">
 
 I'm exploring and learning new things that i can do with markdown for my profile's readme
 
 - 🤖 I'm student of BIT Durg
 - ☸️ I’m learning things about Git and Github 
 - ⚡ I like playing soccer and valorant
-
+---
 🔗  **Connect with me**
 <p align="left">
 <a href="https://twitter.com/Vivek83714122" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Vivek ratia" height="30" width="40" /></a>
@@ -20,7 +20,13 @@ I'm exploring and learning new things that i can do with markdown for my profile
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
   
-  
+  ---
  ### 📈 Stats
 ![vivek's github Stats](https://github-readme-stats.vercel.app/api?username=Vivekrathia&theme=radical)
+  <a href="https://github.com/Vivekrathia/github-readme-stats"><img alt="Vivek rathia's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivekrathia&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  
+ <a href="https://github.com/Vivekrathia/github-readme-activity-graph"><img alt="Vivek rathia's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Vivekrathia&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+  
+
+
   
