@@ -6,6 +6,7 @@ I'm exploring and learning new things that i can do with markdown for my profile
 - 🤖 I'm student of BIT Durg
 - ☸️ I’m learning things about Git and Github 
 - ⚡ I like playing soccer and valorant
+- 👨‍💻 I like to code
 ---
 🔗  **Connect with me**
 <p align="left">
