@@ -8,7 +8,6 @@ I'm exploring and learning new things that i can do with markdown for my profile
 - ⚡ I like playing soccer and valorant
 - 👨‍💻 I like to code
 - ✨ I'm currently learning Flutter
----
 🔗  **Connect with me**
 <p align="left">
 <a href="https://twitter.com/Vivek83714122" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Vivek ratia" height="30" width="40" /></a>
