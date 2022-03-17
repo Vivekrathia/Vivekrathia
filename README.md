@@ -27,6 +27,8 @@ I'm exploring and learning new things that i can do with markdown for my profile
 ![vivek's github Stats](https://github-readme-stats.vercel.app/api?username=Vivekrathia&theme=radical)
   <a href="https://github.com/Vivekrathia/github-readme-stats"></a>
   
+  ---
+  
  <a href="https://github.com/Vivekrathia/github-readme-activity-graph"><img alt="Vivek rathia's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Vivekrathia&bg_color=#FFC0CB&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
   
 
