@@ -25,7 +25,7 @@ I'm exploring and learning new things that i can do with markdown for my profile
 ![vivek's github Stats](https://github-readme-stats.vercel.app/api?username=Vivekrathia&theme=radical)
   <a href="https://github.com/Vivekrathia/github-readme-stats"><img alt="Vivek rathia's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivekrathia&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   
- <a href="https://github.com/Vivekrathia/github-readme-activity-graph"><img alt="Vivek rathia's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Vivekrathia&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+ <a href="https://github.com/Vivekrathia/github-readme-activity-graph"><img alt="Vivek rathia's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Vivekrathia&bg_color=#FFC0CB&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
   
 
 
