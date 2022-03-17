@@ -17,7 +17,7 @@ I'm exploring and learning new things that i can do with markdown for my profile
 <a href="https://www.instagram.com/vivvvvekrathia/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Vivek rathia" height="30" width="40" /></a>
   
   
- ## Language :
+ ## Languages :
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
