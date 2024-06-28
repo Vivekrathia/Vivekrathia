@@ -1,27 +1,30 @@
 <h1>Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Vivek rathia</h1>
 <img src="https://github.com/Vivekrathia/Vivekrathia/blob/main/Wy7u.gif" width="500" height="320">
 
-I'm exploring and learning new things that i can do with markdown for my profile's readme
+I want to be a data scientist
 
-- 🤖 I'm student of BIT Durg
-- ☸️ I’m learning things about Git and Github 
-- ⚡ I like playing soccer and valorant
-- 👨‍💻 I like to code
-- ✨ I'm currently learning Flutter
+- 🤖 I'm student of Bhilai Institute of Technology, Durg (chhattisagarh)
+- ☸️ I’m learning things about GenAI
+- ⚡ I like playing with Datasets
+- 👨‍💻 I like to perform analysis on datasets which come from real world
+- ✨ I'm currently learning and i get happy when i code something that makes sense
 
 ---
 🔗  **Connect with me**
 <p align="left">
-<a href="https://twitter.com/Vivek83714122" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Vivek ratia" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/vivek-rathia-6476b71b9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
-<a href="https://www.instagram.com/vivvvvekrathia/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Vivek rathia" height="30" width="40" /></a>
-  
+<a href="https://twitter.com/Vivek83714122" target="blank"><img align="center" src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/vivvvekrathia" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Vivek rathia"/></a>
+<a href="https://www.instagram.com/vivvvvekrathia/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Vivek rathia" /></a>
+
+
   
  ## Languages :
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
   
   ---
  ### 📈 Stats
