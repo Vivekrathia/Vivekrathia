@@ -14,7 +14,6 @@ I want to be a data scientist
 <p align="left">
 <a href="https://twitter.com/Vivek83714122" target="blank"><img align="center" src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/vivvvekrathia" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Vivek rathia"/></a>
-<a href="https://www.instagram.com/vivvvvekrathia/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Vivek rathia" /></a>
 
 
   
