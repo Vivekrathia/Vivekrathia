@@ -3,7 +3,7 @@
 
 I want to be a data scientist
 
-- 🤖 I'm student of Bhilai Institute of Technology, Durg (chhattisagarh)
+- 🤖 I was student of Bhilai Institute of Technology, Durg (chhattisagarh)
 - ☸️ I’m learning things about GenAI
 - ⚡ I like playing with Datasets
 - 👨‍💻 I like to perform analysis on datasets which come from real world
