@@ -3,11 +3,11 @@
 
 I want to be a data scientist
 
-- 🤖 I was student of Bhilai Institute of Technology, Durg (chhattisagarh)
-- ☸️ I’m learning things about GenAI
+- 🤖 I am student of Amity University Noida
+- ☸️ I’m learning about GenAI
 - ⚡ I like playing with Datasets
 - 👨‍💻 I like to perform analysis on datasets which come from real world
-- ✨ I'm currently learning and i get happy when i code something that makes sense
+- ✨ I'm currently learning things and i get happy when i code something that makes sense
 
 ---
 🔗  **Connect with me**
