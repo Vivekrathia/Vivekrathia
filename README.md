@@ -1,7 +1,7 @@
 <h1>Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Vivek rathia</h1>
 <img src="https://github.com/Vivekrathia/Vivekrathia/blob/main/Wy7u.gif" width="500" height="320">
 
-I want to be a data scientist
+I want to be real time web crawlaer 😏
 
 - 🤖 I am student of Amity University Noida
 - ☸️ I’m learning about GenAI
