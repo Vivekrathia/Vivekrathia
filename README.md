@@ -4,9 +4,9 @@
 I want to be real time web crawlaer 😏
 
 - 🤖 I am student of Amity University Noida
-- ☸️ I’m learning about GenAI
-- ⚡ I like playing with Datasets
-- 👨‍💻 I like to perform analysis on datasets which come from real world
+- ☸️ I’m learning about AI workflows
+- ⚡ I like playing with Datasets, tech, Iot
+- 👨‍💻 I like to play on datasets which come from real world
 - ✨ I'm currently learning things and i get happy when i code something that makes sense
 
 ---
